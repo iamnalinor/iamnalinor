@@ -1,6 +1,6 @@
 ## Hi there 
 
-I'm Python backend developer and a starting data analytist.
+I'm Python&Go backend developer and a starting data analytist.
 
 Achievements:
 - [DANO Hackathon in Saint Perersburg](https://dano.hse.ru/hackathon), winner (3rd place), April 2025
